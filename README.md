@@ -14,3 +14,13 @@ R gives me the lens to explore data and uncover patterns hidden in numbers.
 Git feels like my time machine — every commit a snapshot of growth.  
 Together, they make me fluent in building, analyzing, and sharing knowledge.  
 Learning them is my way to blend creativity with rigor in the digital world.  
+
+## Summary
+
+I learned how to create a repository on GitHub and clone it locally with GitHub Desktop.  
+I discovered how to work on a branch and edit the README.md file.  
+I understood the purpose of commits to save local changes.  
+I learned how to use push to send my modifications to GitHub.  
+This assignment helped me better understand the workflow with branches, commits, and push.  
+
+⏱️ Time spent: about 2 hours.
